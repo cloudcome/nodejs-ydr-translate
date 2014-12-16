@@ -1,7 +1,7 @@
 {
   "name": "ydr-translate",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "translate for ydr.me",
   "scripts": {},
   "preferGlobal": false,
