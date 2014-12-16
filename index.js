@@ -1,5 +1,5 @@
 /*!
- * 文件描述
+ * translate
  * @author ydr.me
  * @create 2014-12-16 21:46
  */
@@ -12,3 +12,8 @@
 //创建时间：2014-12-16
 //网站名称：f2ec-org
 //网站地址：http://f2ec.org
+
+
+var request = require('ydr-util').request;
+
+
