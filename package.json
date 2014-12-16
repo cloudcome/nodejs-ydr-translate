@@ -1,0 +1,35 @@
+{
+  "name": "ydr-translate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "translate for ydr.me",
+  "scripts": {},
+  "preferGlobal": false,
+  "bin": {},
+  "main": "index.js",
+  "keywords": [
+    "cloudcome",
+    "translate",
+    "baidu",
+    "youdao",
+    "ydr.me"
+  ],
+  "author": {
+    "name": "cloudcome",
+    "email": "cloudcome@163.com",
+    "url": "http://ydr.me"
+  },
+  "homepage": "https://github.com/cloudcome/nodejs-ydr-translate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/nodejs-ydr-translate"
+  },
+  "bugs": {
+    "url": "https://github.com/cloudcome/nodejs-ydr-translate/issues"
+  },
+  "dependencies": {
+    "ydr-util": "^1.11.0"
+  },
+  "devDependencies": {},
+  "licenses": "MIT"
+}
