@@ -1,6 +1,6 @@
 {
   "name": "ydr-translate",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "private": false,
   "description": "translate for ydr.me",
   "scripts": {},
@@ -28,7 +28,7 @@
     "url": "https://github.com/cloudcome/nodejs-ydr-translate/issues"
   },
   "dependencies": {
-    "ydr-util": "^1.11.0"
+    "ydr-util": "^2.0.1"
   },
   "devDependencies": {},
   "licenses": "MIT"
